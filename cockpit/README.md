@@ -50,7 +50,8 @@ smaller price-acceptance pool flows into CAC. At 0% sensitivity the economics ar
 optimistic (€80,901 contribution net of marketing); at 100% they fail
 (−€52,936). The full-sensitivity curve has a best point at €2.19 but even that
 point loses money. This is why the recommendation is a gated pilot rather than a
-full rollout.
+full rollout. The €1.35 home-market stress point is outside the German tested
+range (€1.79–€2.59), so that endpoint is a boundary scenario, not a forecast.
 
 | | Year 1 |
 |---|---|
